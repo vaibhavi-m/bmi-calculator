@@ -1,4 +1,4 @@
-# homework_1
+# bmi-caculator
 
 A new Flutter project.
 
